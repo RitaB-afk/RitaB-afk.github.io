@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/installmentplan/static/css/main.ca238ae7.css",
+    "main.js": "/installmentplan/static/js/main.ad7d8086.js",
+    "static/js/787.ab69b42d.chunk.js": "/installmentplan/static/js/787.ab69b42d.chunk.js",
+    "index.html": "/installmentplan/index.html",
+    "main.ca238ae7.css.map": "/installmentplan/static/css/main.ca238ae7.css.map",
+    "main.ad7d8086.js.map": "/installmentplan/static/js/main.ad7d8086.js.map",
+    "787.ab69b42d.chunk.js.map": "/installmentplan/static/js/787.ab69b42d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca238ae7.css",
+    "static/js/main.ad7d8086.js"
+  ]
+}
